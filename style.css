@@ -62,7 +62,7 @@ li {
   padding-left: 16px;
 }
 
-row {
+.row {
   width: 100%;
   max-width: 1300px;
   display: flex;
